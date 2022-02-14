@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navi_Board"
+        android:icon="@drawable/board"
+        android:enabled="true"
+        android:title="게시글"/>
+    <item
+        android:id="@+id/navi_HobbyList"
+        android:icon="@drawable/nonplay"
+        android:enabled="true"
+        android:title="취미"/>
+    <item
+        android:id="@+id/navi_MyHobby"
+        android:icon="@drawable/like"
+        android:enabled="true"
+        android:title="My"/>
+</menu>
