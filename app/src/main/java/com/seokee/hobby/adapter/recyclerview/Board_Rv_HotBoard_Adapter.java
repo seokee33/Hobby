@@ -9,7 +9,6 @@ import android.widget.TextView;
 
 import com.seokee.hobby.R;
 import com.seokee.hobby.model.Board_HotBoard_Rv_Model;
-import com.seokee.hobby.model.Board_HotBoard_Rv_Model;
 
 import java.util.ArrayList;
 
