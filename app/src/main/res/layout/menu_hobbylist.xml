@@ -33,11 +33,12 @@
                         android:id="@+id/tv_Category1"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="카테고리1" />
+                        android:text="스포츠" />
 
                     <android.support.v7.widget.RecyclerView
+                        android:id="@+id/rv_Sports"
                         android:layout_width="match_parent"
-                        android:layout_height="200dp" />
+                        android:layout_height="wrap_content" />
                 </LinearLayout>
             </android.support.v7.widget.CardView>
 
@@ -57,11 +58,12 @@
                         android:id="@+id/tv_Category2"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="카테고리2" />
+                        android:text="레저/여행" />
 
                     <android.support.v7.widget.RecyclerView
+                        android:id="@+id/rv_Travel"
                         android:layout_width="match_parent"
-                        android:layout_height="200dp" />
+                        android:layout_height="wrap_content" />
                 </LinearLayout>
             </android.support.v7.widget.CardView>
 
@@ -81,11 +83,12 @@
                         android:id="@+id/tv_Category3"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="카테고리3" />
+                        android:text="게임" />
 
                     <android.support.v7.widget.RecyclerView
+                        android:id="@+id/rv_Game"
                         android:layout_width="match_parent"
-                        android:layout_height="200dp" />
+                        android:layout_height="wrap_content" />
                 </LinearLayout>
             </android.support.v7.widget.CardView>
 
@@ -105,11 +108,12 @@
                         android:id="@+id/tv_Category4"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="카테고리4" />
+                        android:text="maker" />
 
                     <android.support.v7.widget.RecyclerView
+                        android:id="@+id/rv_Maker"
                         android:layout_width="match_parent"
-                        android:layout_height="200dp" />
+                        android:layout_height="wrap_content" />
                 </LinearLayout>
             </android.support.v7.widget.CardView>
         </LinearLayout>

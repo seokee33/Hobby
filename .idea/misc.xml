@@ -8,13 +8,19 @@
         <entry key="..\:/Users/Home/AndroidStudioProjects/Hobby/app/src/main/res/drawable/boardstyle.xml" value="0.28125" />
         <entry key="..\:/Users/Home/AndroidStudioProjects/Hobby/app/src/main/res/drawable/ic_launcher_background.xml" value="0.38229166666666664" />
         <entry key="..\:/Users/Home/AndroidStudioProjects/Hobby/app/src/main/res/drawable/inputtext.xml" value="0.38229166666666664" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/Hobby/app/src/main/res/drawable/line.xml" value="0.38229166666666664" />
         <entry key="..\:/Users/Home/AndroidStudioProjects/Hobby/app/src/main/res/drawable/mainsearch.xml" value="0.38229166666666664" />
         <entry key="..\:/Users/Home/AndroidStudioProjects/Hobby/app/src/main/res/drawable/mainsearch2.xml" value="0.38229166666666664" />
         <entry key="..\:/Users/Home/AndroidStudioProjects/Hobby/app/src/main/res/drawable/person.xml" value="0.38229166666666664" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/Hobby/app/src/main/res/drawable/solid_black_line.xml" value="0.38177083333333334" />
         <entry key="..\:/Users/Home/AndroidStudioProjects/Hobby/app/src/main/res/layout/activity_main.xml" value="0.33" />
         <entry key="..\:/Users/Home/AndroidStudioProjects/Hobby/app/src/main/res/layout/board_rv_allboard_item.xml" value="0.33" />
         <entry key="..\:/Users/Home/AndroidStudioProjects/Hobby/app/src/main/res/layout/board_rv_hotboard_item.xml" value="0.44582814445828145" />
         <entry key="..\:/Users/Home/AndroidStudioProjects/Hobby/app/src/main/res/layout/board_rv_weekhobby_item.xml" value="0.22" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/Hobby/app/src/main/res/layout/hoobylist_rv_item.xml" value="0.5" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/Hobby/app/src/main/res/layout/like_rv_media_content.xml" value="0.5" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/Hobby/app/src/main/res/layout/like_rv_nomedia_content.xml" value="0.21574074074074073" />
+        <entry key="..\:/Users/Home/AndroidStudioProjects/Hobby/app/src/main/res/layout/like_rv_subs_item.xml" value="0.21574074074074073" />
         <entry key="..\:/Users/Home/AndroidStudioProjects/Hobby/app/src/main/res/layout/menu_board.xml" value="0.25" />
         <entry key="..\:/Users/Home/AndroidStudioProjects/Hobby/app/src/main/res/layout/menu_hobbylist.xml" value="0.36614583333333334" />
         <entry key="..\:/Users/Home/AndroidStudioProjects/Hobby/app/src/main/res/layout/menu_like.xml" value="0.36614583333333334" />
