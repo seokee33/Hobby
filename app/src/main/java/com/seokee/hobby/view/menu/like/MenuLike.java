@@ -75,8 +75,9 @@ public class MenuLike extends Fragment {
     public void showContents(String subName){
         if(subName.equals("축구")){
             list_Content = new ArrayList<>();
-            list_Content.add(new Like_Content_Rv_Model("user1","........", ViewType_Like_Content.No_Media));
-            list_Content.add(new Like_Content_Rv_Model("user2",R.drawable.football,"........",ViewType_Like_Content.Media));
+            list_Content.add(new Like_Content_Rv_Model("user1","축구는 손과 팔을 공에 대지 않고 주로 발을 이용하여 축구공을 상대 골대에 넣어 점수를 얻고 승무패를 가리는 구기 스포츠이다."
+                    , ViewType_Like_Content.No_Media));
+            list_Content.add(new Like_Content_Rv_Model("user2",R.drawable.football,"손과 팔을 공에 대는 것을 금지하고, 골대를 사용하는 것. 이 두 가지는 축구의 본질이자 핵심으로, 이 두 가지를 모두 지키는 스포츠는 축구이거나 축구의 아종으로 분류된다.[3] 따라서 이중 하나라도 훼손된 경우 축구의 아종으로 분류하지 않는다.[4]",ViewType_Like_Content.Media));
 
 
             rv_Content = binding.rvLikeContent;
